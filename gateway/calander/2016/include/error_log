@@ -1,0 +1,25 @@
+[06-Dec-2019 04:52:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/codingkloud/public_html/gagan.codingkloud.com/wp-content/themes/twentysixteen/include/postlist.php:8
+Stack trace:
+#0 /home/codingkloud/public_html/gagan.codingkloud.com/wp-content/themes/twentysixteen/include/postlist.php(58): Postlist->__construct()
+#1 {main}
+  thrown in /home/codingkloud/public_html/gagan.codingkloud.com/wp-content/themes/twentysixteen/include/postlist.php on line 8
+[06-Dec-2019 04:52:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/codingkloud/public_html/gagan.codingkloud.com/wp-content/themes/twentysixteen/include/postlist.php:8
+Stack trace:
+#0 /home/codingkloud/public_html/gagan.codingkloud.com/wp-content/themes/twentysixteen/include/postlist.php(58): Postlist->__construct()
+#1 {main}
+  thrown in /home/codingkloud/public_html/gagan.codingkloud.com/wp-content/themes/twentysixteen/include/postlist.php on line 8
+[06-Dec-2019 04:52:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/codingkloud/public_html/gagan.codingkloud.com/wp-content/themes/twentysixteen/include/postlist.php:8
+Stack trace:
+#0 /home/codingkloud/public_html/gagan.codingkloud.com/wp-content/themes/twentysixteen/include/postlist.php(58): Postlist->__construct()
+#1 {main}
+  thrown in /home/codingkloud/public_html/gagan.codingkloud.com/wp-content/themes/twentysixteen/include/postlist.php on line 8
+[06-Dec-2019 04:52:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/codingkloud/public_html/gagan.codingkloud.com/wp-content/themes/twentysixteen/include/postlist.php:8
+Stack trace:
+#0 /home/codingkloud/public_html/gagan.codingkloud.com/wp-content/themes/twentysixteen/include/postlist.php(58): Postlist->__construct()
+#1 {main}
+  thrown in /home/codingkloud/public_html/gagan.codingkloud.com/wp-content/themes/twentysixteen/include/postlist.php on line 8
+[06-Dec-2019 04:52:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/codingkloud/public_html/gagan.codingkloud.com/wp-content/themes/twentysixteen/include/postlist.php:8
+Stack trace:
+#0 /home/codingkloud/public_html/gagan.codingkloud.com/wp-content/themes/twentysixteen/include/postlist.php(58): Postlist->__construct()
+#1 {main}
+  thrown in /home/codingkloud/public_html/gagan.codingkloud.com/wp-content/themes/twentysixteen/include/postlist.php on line 8
